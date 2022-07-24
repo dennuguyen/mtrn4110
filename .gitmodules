@@ -1,5 +1,5 @@
 [submodule "Puck_You_z5206032_z5206109_z5206259"]
-	path = Puck_You_z5206032_z5206109_z5206259
+	path = mtrn4110-proj
 	url = git@gitlab.com:dennuguyen/mtrn4110-proj.git
 [submodule "mtrn4110-ass"]
 	path = mtrn4110-ass
